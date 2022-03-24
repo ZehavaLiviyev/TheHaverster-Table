@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Luxurious+Roman&family=Oswald&family=The+Nautigal:wght@400;700&display=swap');
+
+.App-div { 
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  background-color: black;
+}
+
+.title{
+  font-family: 'Cinzel', serif;
+}
+
