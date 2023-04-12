@@ -16,7 +16,7 @@ fetch("data2.json")
                 return -1;
             }
             if (a[0].name > b[0].name) {
-                return 1;
+                return -1;
             }
         });
     })
